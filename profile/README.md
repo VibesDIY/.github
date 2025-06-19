@@ -41,7 +41,7 @@ No infra. No servers. Just apps you can hand to someone like a sticker.
 
 ## 🎛 Philosophy
 
-- Zines good. Slick bad.
+- Anyone can have fun coding apps and sharing vibes
 - Apps should be **remixable**, not locked-down
 - Learn by doing, **ship without friction**
 - Clean lines and glossy gradients not required
